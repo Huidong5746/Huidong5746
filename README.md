@@ -58,19 +58,13 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID)
-
----
-
 ## 📫 Contact
 
-* Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+* Email: khd7420@naver.com
 
 ---
 
 ## 🧭 Goal
 
-단순한 기능 구현을 넘어서
+끝까지, 처음처럼! 단순한 기능 구현을 넘어서
 **데이터를 활용해 실제 산업현장의 문제를 해결하는 개발자**로 성장하는 것이 목표입니다.
