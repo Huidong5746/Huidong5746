@@ -16,15 +16,22 @@
 
 ## 💻 Tech Stack
 
-### 🧠 Backend
+### 🎨 Frontend
+* HTML/CSS
 
+### 🧠 Backend
 * Python
 * Django
+
+### 🤖 AI
+* MachineLearning
+* DeepLearning
 
 ### 📊 Data
 
 * Web Crawling
 * Text Similarity (TF-IDF / Cosine Similarity)
+* SQLD
 
 ### 🛠 Tools
 
