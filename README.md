@@ -16,11 +16,15 @@
 
 ## 💻 Tech Stack
 
+### 💻 language
+* python
+* JavaScript
+
 ### 🎨 Frontend
 * HTML/CSS
+* Vue
 
 ### 🧠 Backend
-* Python
 * Django
 
 ### 🤖 AI
