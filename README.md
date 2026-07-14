@@ -16,30 +16,24 @@
 ## 💻 Tech Stack
 
 ### 💻 language
-* python
-* JavaScript
+* python,JavaScript
 
 ### 🎨 Frontend
-* HTML/CSS
-* Vue
+* HTML/CSS,Vue
 
 ### 🧠 Backend
 * Django
 
 ### 🤖 AI
-* MachineLearning
-* DeepLearning
+* ML,DL
 
-### 📊 Data
+### 📊 Data Engineering
 
-* Web Crawling
-* Text Similarity (TF-IDF / Cosine Similarity)
-* SQLD
+* Kafka,Spark
 
 ### 🛠 Tools
 
-* Git
-* GitHub
+* Git,GitHub,Jira,Notion,Slack
   
 ---
 
